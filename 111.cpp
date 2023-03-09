@@ -52,4 +52,5 @@ int main()
 		int ans=prim(1);
 		cout<<ans<<endl;
 	}
+	//ver1.1
 }
